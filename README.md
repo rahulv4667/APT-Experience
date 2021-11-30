@@ -1,5 +1,7 @@
 # A.P.T Portfolio Interview Experience
 
+> If you just want to know questions, see only the bold parts. 
+
 [Interview 1](./Interview1.md)\
 [Interview 2](./Interview2.md)
 
